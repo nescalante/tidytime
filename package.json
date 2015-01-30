@@ -1,0 +1,27 @@
+{
+  "name": "tidytime",
+  "version": "0.1.0",
+  "description": "Friendly time display",
+  "main": "index.js",
+  "scripts": {
+    "test": "jshint . --reporter node_modules/jshint-stylish/stylish.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nescalante/tidytime"
+  },
+  "keywords": [
+    "tidy",
+    "time"
+  ],
+  "author": "Nicolas Escalante <nlante@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nescalante/tidytime/issues"
+  },
+  "homepage": "https://github.com/nescalante/tidytime",
+  "devDependencies": {
+    "jshint": "~2.6.0",
+    "jshint-stylish": "~1.0.0"
+  }
+}
