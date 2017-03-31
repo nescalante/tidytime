@@ -1,5 +1,7 @@
 # Tidy Time
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nescalante/tidytime.svg)](https://greenkeeper.io/)
+
 > Human readable times
 
 ## Install
